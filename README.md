@@ -4,7 +4,9 @@
 主題：建立虛擬機
 
 適用AWS Educate, Starter帳號環境
+
 服務：EC2
+
 作業系統：Windows
 
 # 情境
